@@ -8,5 +8,5 @@ cd ig-markets
 npm i
 ```
 ```bash
-env IG_KEY='<API KEY>' env IG_IDENTIFIER='<API USERNAME>' env IG_PASSWORD='<API PASSWORD>' node get-tokens.js
+env IG_KEY='<API_KEY>' env IG_IDENTIFIER='<API_USERNAME>' env IG_PASSWORD='<API_PASSWORD>' node get-tokens.js
 ```
