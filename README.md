@@ -13,3 +13,5 @@ npm i
 ```bash
 env IG_KEY='<API_KEY>' env IG_IDENTIFIER='<API_USERNAME>' env IG_PASSWORD='<API_PASSWORD>' node get-tokens.js
 ```
+## Lightstreamer - Basic IG Demo - Node.js Client
+[https://github.com/weevilcorp/Lightstreamer-example-IG-client-node](https://github.com/weevilcorp/Lightstreamer-example-IG-client-node)
